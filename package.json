@@ -1,6 +1,6 @@
 {
     "name": "typescript-module-empty-template",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Bootstrap template for typescript module projects with a full CI/CD set.",
     "main": "lib/index.js",
     "scripts": {
@@ -29,5 +29,7 @@
         "ts-loader": "^9.1.2",
         "typescript": "^4.2.4"
     },
-    "files": ["lib"]
+    "files": [
+        "lib"
+    ]
 }
